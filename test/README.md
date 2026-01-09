@@ -1,0 +1,2 @@
+Yes I am aware bun has its native test suite and tools
+but i decided to stick to the jest test as it is an assurance that I can achieve a proper 1 to 1 with https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/xxstache/
