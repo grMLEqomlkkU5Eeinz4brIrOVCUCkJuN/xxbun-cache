@@ -47,12 +47,12 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/YOUR_USERNAME/xxbun-cache.git"
+		"url": "git+https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/xxbun-cache.git"
 	},
 	"bugs": {
-		"url": "https://github.com/YOUR_USERNAME/xxbun-cache/issues"
+		"url": "https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/xxbun-cache/issues"
 	},
-	"homepage": "https://github.com/YOUR_USERNAME/xxbun-cache#readme",
+	"homepage": "https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/xxbun-cache#readme",
 	"devDependencies": {
 		"@biomejs/biome": "2.3.11",
 		"@types/bun": "latest",
