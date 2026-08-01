@@ -54,7 +54,7 @@
 	},
 	"homepage": "https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/xxbun-cache#readme",
 	"devDependencies": {
-		"@biomejs/biome": "2.5.5",
+		"@biomejs/biome": "2.5.6",
 		"@types/bun": "latest",
 		"@types/fs-extra": "^11.0.4",
 		"@types/jest": "^30.0.0"
